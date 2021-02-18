@@ -1,0 +1,22 @@
+{
+  "name": "heheboy",
+  "version": "1.0.0",
+  "description": "Hehe boy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/akamuraasai/heheboy.git"
+  },
+  "author": "Jonathan Willian <jonathan.willian.tod@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "xfiles": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/akamuraasai/heheboy/issues"
+  },
+  "homepage": "https://github.com/akamuraasai/heheboy#readme"
+}
